@@ -1,4 +1,4 @@
- Sorteio entre amigos 
+1° Site - Sorteio entre amigos 
 -----------------------------
 
 ⚡ Dica 
@@ -13,10 +13,17 @@ _________________________
 Feito com carinho para tornar suas festas mais divertidas!
 
 ---------------------
-Descrição
+2° Site - Bloco de Notas Simples 
+---------------------
 
-Este projeto foi desenvolvido durante uma imersão de JavaScript da Alura com o objetivo de praticar conceitos básicos da linguagem.
 ⚡ Funcionalidades:
+
+Exibir e ocultar um bloco de notas ao clicar em um botão;
+
+Salvar automaticamente o texto digitado no navegador;
+
+Carregar o texto salvo ao reabrir a página.
+Descrição
 
 ------------------------
 💡 Observação:
